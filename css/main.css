@@ -63,6 +63,8 @@ body {
   border: 0;
   background-color: #aaa;
   position: absolute;
+  width: 300px;
+  left: 0;
 }
 
 /*
