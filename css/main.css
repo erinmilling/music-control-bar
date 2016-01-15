@@ -97,18 +97,20 @@ body {
   font-size: 1.8rem;
   line-height: 16px;
   list-style-type: none;
-  position: absolute;
-  width: 100%;
 }
 
 .control-shuffle {
+  position: absolute;
+  left: 8%;
   top: 0;
+  font-size: 1rem;
 
 }
 
 .control-list {
-
+  position: absolute;
 }
 
 .control-heart {
+  position: absolute;
 }
