@@ -97,9 +97,12 @@ body {
   font-size: 1.8rem;
   line-height: 16px;
   list-style-type: none;
+  position: absolute;
+  width: 100%;
 }
 
 .control-shuffle {
+  top: 0;
 
 }
 
@@ -108,5 +111,4 @@ body {
 }
 
 .control-heart {
-
 }
