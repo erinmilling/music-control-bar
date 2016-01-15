@@ -59,8 +59,9 @@ body {
   border: 0;
   background-color: #aaa;
   position: absolute;
-  width: 300px;
-  left: 0;
+  width: 100%;
+  left: 50px;
+  bottom: 0;
 }
 
 /*
